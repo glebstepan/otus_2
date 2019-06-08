@@ -12,4 +12,5 @@
 - report type
 
 Example: manage.py git_irl language verbs(words) report_type
+
         manage.py https://github.com/glebstepan/otus_2.git .py names json
